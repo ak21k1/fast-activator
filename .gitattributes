@@ -1,0 +1,9 @@
+# Default behavior
+*.yml linguist-detectable=false
+*.map linguist-generated
+*.woff binary
+package-lock.json linguist-generated
+src/**/*.rs linguist-detectable
+*.svg text
+
+*.html linguist-vendored
